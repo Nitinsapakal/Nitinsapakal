@@ -3,6 +3,9 @@
 
 ![MasterHead](https://github.com/Nitinsapakal/Nitinsapakal/blob/main/api_giphy_header.gif)
 
+<pre>I am software engineer and writer. I love programming, writing, speaking and traveling.
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+That's why I like to make things that make a difference.</pre>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
