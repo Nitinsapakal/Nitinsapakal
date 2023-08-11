@@ -1,6 +1,8 @@
-![long](https://github.com/Nitinsapakal/Nitinsapakal/blob/main/api_giphy_header.gif)
 <h1 align="center">Hi 👋, I'm Nitin Sapakal</h1>
 <h3 align="center">I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
+
+![long](https://github.com/Nitinsapakal/Nitinsapakal/blob/main/api_giphy_header.gif)
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
