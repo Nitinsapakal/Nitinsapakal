@@ -11,7 +11,7 @@ That's why I like to make things that make a difference.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsapakal&label=Profile%20views&color=0e75b6&style=flat" alt="nitinsapakal" /> </p>
 
-- 🔭 I’m currently studying in CDAC **.**
+- 🔭 I’m Just recently Completed CDAC PG-Diploma in Advance Computing**.**
 
 - 📫 Doing ordinary things extra ordinarily **.**
 
